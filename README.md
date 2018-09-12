@@ -40,4 +40,10 @@ GitHub 사용자의 email이나 사용자 이름으로 검색할 수 있습니�
 Collaborator로 등록된 사용자는 해당 저장소의 파일을 직접 수정할 수 있는 권한을 받게 됩니다.
 
 ![Alt text](/10.jpg)
+![Alt text](/12.jpg)
+
+경된 내용이 반영되면 해당 사용자가 contributor 정보에 표시되는 것을 볼 수 있습니다.
+
+![Alt text](/11.jpg)
+
 
